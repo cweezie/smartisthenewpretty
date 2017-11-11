@@ -1,0 +1,50 @@
+body{
+    text-align:center;
+    background-color:#A2DED0;
+    font-family: 'Kaushan Script', cursive;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size:35px;
+}
+#passionate{
+    color:#A31621;
+    text-shadow: 2px 2px #000000;
+}
+#ready{
+    color:#7C7287;
+    text-shadow: 2px 2px #000000;
+}
+#excellent{
+    color:#1F7A8C;
+    text-shadow: 2px 2px #000000;
+}
+#tenacious{
+    color:#FE938C;
+    text-shadow: 2px 2px #000000;
+}
+#transcendent{
+    color:#A40E4C;
+    text-shadow: 2px 2px #000000;
+}
+#you{
+    color:#009E87;
+    text-shadow: 2px 2px #000000;
+}
+#define{
+    font-size:25px;
+}
+#pic1{
+    height:250px;
+    width:250px;
+    float:left;
+    margin-left:100px;
+}
+#pic2{
+    height:250px;
+    width:250px;
+    float:right;
+    margin-right:100px;
+}
